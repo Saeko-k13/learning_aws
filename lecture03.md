@@ -3,18 +3,24 @@
 
 ## 1. AP サーバーについて調べる
 - AP サーバーの名前とバージョン
-  - ![Puma 6.4.2](https://github.com/Saeko-k13/learning_aws/blob/lecture03/APserver-start.jpg)
+  - puma.6.4.2
+![Puma 6.4.2](https://github.com/Saeko-k13/learning_aws/blob/lecture03/APserver-start.jpg)
 - AP サーバーを終了させた場合、引き続きアクセスできますか
-  - ![アクセスできません](https://github.com/Saeko-k13/learning_aws/blob/lecture03/APserver-stop.jpg)
+  - アクセスできません 
+![アクセスできません](https://github.com/Saeko-k13/learning_aws/blob/lecture03/APserver-stop.jpg)
 - APサーバを起動後、アクセスできるか
-  - ![アクセスできます](https://github.com/Saeko-k13/learning_aws/blob/lecture03/APserver-start2.jpg)
+  - アクセスできます
+![アクセスできます](https://github.com/Saeko-k13/learning_aws/blob/lecture03/APserver-start2.jpg)
 
 ## 2. DB サーバーについて調べる
 - DB サーバーの名前とバージョン
-  - ![mysql 8.4.3](https://github.com/Saeko-k13/learning_aws/blob/lecture03/DBserver.jpg)
+  - mysql 8.4.3
+![mysql 8.4.3](https://github.com/Saeko-k13/learning_aws/blob/lecture03/DBserver.jpg)
 - DB サーバーを終了させた場合、引き続きアクセスできますか
-  - ![終了](https://github.com/Saeko-k13/learning_aws/blob/lecture03/DBserver-stop.jpg)
-  - ![アクセスできません](https://github.com/Saeko-k13/learning_aws/blob/lecture03/DBserver-stop2.jpg)
+  - 終了
+![終了](https://github.com/Saeko-k13/learning_aws/blob/lecture03/DBserver-stop.jpg)
+  - アクセス出来ません
+![アクセスできません](https://github.com/Saeko-k13/learning_aws/blob/lecture03/DBserver-stop2.jpg)
 - Rails の構成管理ツールの名前は何でしたか
   - bundler
 
